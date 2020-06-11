@@ -12,7 +12,8 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-!*Compilado/
+
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -26,6 +27,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+!*Compilado/[Bb]in/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
