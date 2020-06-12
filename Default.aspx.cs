@@ -13,6 +13,10 @@ namespace DemoCI
         {
             //Se realiza inicio
             String nuevoStr = "valor";
+            if(nuevoStr=="hola")
+            {
+                int i = 0;
+            }
 
         }
     }

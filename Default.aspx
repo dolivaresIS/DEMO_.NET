@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>DEMO PARA SOUTHBRIDGE ASP.NET</h1>
-        <p class="lead">Demostracion de Continuous Integrations con .NET</p>
+        <h1>DEMO PARA SOUTHBRIDGE V1.0</h1>
+        <p class="lead">Demostracion de Continuous Integrations con .NET y nuevas mejoras</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
